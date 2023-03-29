@@ -1,0 +1,53 @@
+.inn_div{
+  margin-left: 4rem !important;
+  box-sizing: border-box !important;
+  box-shadow: 2px 0 6px -2px #d9dede;
+}
+.logo{
+  width: 53px;
+  margin-left: -5px;
+  margin-top: 44px;
+}
+
+a{
+  color:#1d8ddb ;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.input_field{
+  /* padding: 10px 88px !important; */
+  width: 400px !important;
+  height: 20px !important;
+}
+.textfield{
+  margin-bottom: 20px !important;
+}
+.typo_css{
+  margin-left: 17rem !important;
+    margin-top: -6px !important;
+    color: #1d8ddb !important;
+    font-size: 0.9rem !important;
+    font-weight: bold !important;
+}
+.check_typo{
+  display: flex !important;
+}
+.login{
+  background-color: #1d8ddb !important;
+  color: white !important;
+  font-weight: 500 !important;
+  margin-top: 4px !important;
+  padding: 11px !important;
+}
+.first_clmn{
+  margin-top: 100px;
+}
+.second_clmn{
+  margin-left: 20rem !important;
+  margin-top: 11rem !important;
+}
+.main_typo{
+  margin-top: -10px !important;
+  margin-bottom: 41px !important;
+}
